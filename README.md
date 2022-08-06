@@ -3,7 +3,7 @@
 # I am a frontend developer.
 ----- 
 
-* Used Technologies Professionally: React, TypeScript, Jest, Storybook, CSS (styled-component), HTML
+* Used Technologies Professionally: React, TypeScript, JavaScript, Jest, Storybook, CSS (styled-component), HTML
 * Used Technologies By Myself: JavaScript, C, C++, Python, Material UI, SQL
 
 ----
