@@ -1,6 +1,6 @@
 ### Hi!
 ## I am Semih!
-# I am a frontend developer.
+# I am a software developer.
 ----- 
 
 * Used Technologies Professionally: React, TypeScript, JavaScript, Jest, Storybook, CSS (styled-component), HTML
@@ -9,7 +9,7 @@
 ----
 
 * I am currently studying on **[Yildiz Technical University](https://yildiz.edu.tr/en)** ✨
-* I am currently learning **backend development** and **image processing**.
+* I am currently learning **backend development**
 
 ----
 
