@@ -3,8 +3,8 @@
 # I am a software developer.
 ----- 
 
-* Used Technologies Professionally: React, TypeScript, JavaScript, Jest, Storybook, CSS (styled-component), HTML
-* Used Technologies By Myself: JavaScript, C, C++, Python, Material UI, SQL
+* Used Technologies Professionally: Vue.js, React, TypeScript, JavaScript, MSSQL, SQL, .Net, Jest, Storybook, CSS (styled-component), HTML
+* Used Technologies By Myself: C, C++, Python, Material UI
 
 ----
 
