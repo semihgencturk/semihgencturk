@@ -1,6 +1,6 @@
 ### Hi!
 ## I am Semih!
-# I am a mathematical enineering student.
+# I am a mathematical engineering student.
 ----- 
 
 * Used Technologies Professionally: Vue.js, React, TypeScript, JavaScript, MSSQL, SQL, .Net, Jest, Storybook, CSS (styled-component), HTML
