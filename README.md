@@ -1,6 +1,6 @@
 ### Hi!
 ## I am Semih!
-# I am a software developer.
+# I am a mathematical enineering student.
 ----- 
 
 * Used Technologies Professionally: Vue.js, React, TypeScript, JavaScript, MSSQL, SQL, .Net, Jest, Storybook, CSS (styled-component), HTML
@@ -9,7 +9,7 @@
 ----
 
 * I am currently studying on **[Yildiz Technical University](https://yildiz.edu.tr/en)** ✨
-* I am currently learning **backend development**
+* I am currently learning **data science**
 
 ----
 
