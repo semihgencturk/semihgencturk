@@ -9,7 +9,7 @@
 ----
 
 * I am currently studying on **[Yildiz Technical University](https://yildiz.edu.tr/en)** ✨
-* I am currently learning **data science**
+* I am currently learning **data science**.
 
 ----
 
