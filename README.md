@@ -41,6 +41,6 @@ Current Volunteer Roles and Responsibilities:
 ----
 
 * You can reach me on [linkedin](https://www.linkedin.com/in/semihgencturk/) and [twitter](https://twitter.com/semihgencturk_).
-* You can follow me on [medium](https://medium.com/@semihgencturk) and [youtube](https://www.youtube.com/@semihgencturk)
+* You can follow me on [medium](https://medium.com/@semihgencturk) and [youtube](https://www.youtube.com/@semihgencturk).
 * My email is semihgencturk@gmail.com. 
 * You can freely reach me about everything you want.
