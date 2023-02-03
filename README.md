@@ -4,7 +4,7 @@
 # I am interested in data science.
 ----- 
 
-Key notes:
+**Key notes:**
 
 - [Mathematical Engineering student](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=37&aid=24) at [Yildiz Technical University](https://yildiz.edu.tr/en).
 - Highly motivated, keen on learning new skills and experience in **data science**.
@@ -13,7 +13,7 @@ Key notes:
 
 ----
 
-I have work exprience as a:
+**I have work exprience as a:**
 
 - Full Stack Web Developer @ [Softtech](https://www.linkedin.com/company/softtechas/) (For 1 month / Internship)
 - Frontend Web Developer @ [Seturtech](https://www.linkedin.com/company/seturtech/) (For 10 months / Part-time)
@@ -21,7 +21,7 @@ I have work exprience as a:
 
 ----
 
-My skills for:
+**My skills for:**
 
 - Data Science: SQL, Python, Git, Math
 - Front-end development: TypeScript, JavaScript, React, Vue, CSS, HTML, Jest, Git
@@ -31,7 +31,7 @@ My skills for:
 
 ----
 
-Current Volunteer Roles and Responsibilities:
+**Current Volunteer Roles and Responsibilities:**
 
 - [YTU Multidisciplinary Innovation Technologies Club](https://www.linkedin.com/company/ytumint/) (Vice President)
 - [Kodluyoruz](https://www.linkedin.com/company/kodluyoruz/) (Mentor of University Ambassadors & Representative at YTU)
@@ -40,7 +40,9 @@ Current Volunteer Roles and Responsibilities:
 
 ----
 
-* You can reach me on [linkedin](https://www.linkedin.com/in/semihgencturk/) and [twitter](https://twitter.com/semihgencturk_).
-* You can follow me on [medium](https://medium.com/@semihgencturk) and [youtube](https://www.youtube.com/@semihgencturk).
-* My email is semihgencturk@gmail.com. 
-* You can freely reach me about everything you want.
+**Contact:**
+
+- You can reach me on [linkedin](https://www.linkedin.com/in/semihgencturk/) and [twitter](https://twitter.com/semihgencturk_).
+- You can follow me on [medium](https://medium.com/@semihgencturk) and [youtube](https://www.youtube.com/@semihgencturk).
+- My email is semihgencturk@gmail.com. 
+- You can freely reach me about everything you want.
