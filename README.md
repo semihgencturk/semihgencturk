@@ -6,7 +6,7 @@
 
 Key notes:
 
-- [Mathematical Engineering student](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=37&aid=24) at [Yildiz Technical University](https://yildiz.edu.tr/en)
+- [Mathematical Engineering student](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=37&aid=24) at [Yildiz Technical University](https://yildiz.edu.tr/en).
 - Highly motivated, keen on learning new skills and experience in **data science**.
 - I want to become high qualified data scientist and I am improving myself to achieve this. 
 - Graduation: June 2024 – Open to part-time jobs or long/short term internships.
