@@ -1,7 +1,6 @@
-### Hi!
-## I am Semih!
-# I am a mathematical engineering student.
-# I am interested in data science.
+### Hi! I am Semih!
+## I am a mathematical engineering student.
+## I am interested in data science.
 ----- 
 
 **Key notes:**
