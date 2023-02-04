@@ -45,4 +45,4 @@
 - You can follow me on [medium](https://medium.com/@semihgencturk) and [youtube](https://www.youtube.com/@semihgencturk).
 - My email is semihgencturk@gmail.com. 
 - You can freely reach me about everything you want.
-- Go to my [resume](https://drive.google.com/file/d/1Ye_YjTTzGuHXq5gb9Aod1x7jLK9pTlGu/view?usp=share_link).
+- Go to my [resume](https://drive.google.com/file/d/1wKLMf0-FhrLUUmF88dBQlEa89FV25Hmf/view?usp=share_link).
