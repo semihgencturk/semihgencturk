@@ -1,6 +1,6 @@
 ### Hi! I am Semih!
 ## I am a mathematical engineering student.
-## I am interested in data science.
+## I am interested in Data Analysis, Business Analysis, IT Project Management.
 ----- 
 
 **Key notes:**
@@ -32,8 +32,9 @@
 
 **Current Volunteer Roles and Responsibilities:**
 
+- [Huawei Student Developers](https://developer.huawei.com/consumer/en/programs/hsd/ambassador) (Ambassador of YTU)
+- [Kodluyoruz](https://www.linkedin.com/company/kodluyoruz/) (University Ambassadors Leader)
 - [YTU Multidisciplinary Innovation Technologies Club](https://www.linkedin.com/company/ytumint/) (Vice President)
-- [Kodluyoruz](https://www.linkedin.com/company/kodluyoruz/) (Mentor of University Ambassadors & Representative at YTU)
 - [Devnot](https://www.linkedin.com/in/devnot/) (Organizer)
 - [IAESTE Yildiz](https://www.linkedin.com/company/iaeste-yildiz/) (IT Coordinator)
 
