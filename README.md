@@ -36,7 +36,6 @@
 - [Kodluyoruz](https://www.linkedin.com/company/kodluyoruz/) (University Ambassadors Leader)
 - [YTU Multidisciplinary Innovation Technologies Club](https://www.linkedin.com/company/ytumint/) (Vice President)
 - [Devnot](https://www.linkedin.com/in/devnot/) (Organizer)
-- [IAESTE Yildiz](https://www.linkedin.com/company/iaeste-yildiz/) (IT Coordinator)
 
 ----
 
