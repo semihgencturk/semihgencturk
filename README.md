@@ -32,7 +32,7 @@
 
 **Current Volunteer Roles and Responsibilities:**
 
-- [Huawei Student Developers](https://developer.huawei.com/consumer/en/programs/hsd/ambassador) (Ambassador of YTU)
+- [Huawei Student Developers](https://developer.huawei.com/consumer/en/programs/hsd/ambassador) (Campus Ambassador of YTU)
 - [Kodluyoruz](https://www.linkedin.com/company/kodluyoruz/) (University Ambassadors Leader)
 - [YTU Multidisciplinary Innovation Technologies Club](https://www.linkedin.com/company/ytumint/) (Vice President)
 - [Devnot](https://www.linkedin.com/in/devnot/) (Organizer)
@@ -42,8 +42,4 @@
 
 **Contact:**
 
-- You can reach me on [linkedin](https://www.linkedin.com/in/semihgencturk/) and [twitter](https://twitter.com/semihgencturk_).
-- You can follow me on [medium](https://medium.com/@semihgencturk) and [youtube](https://www.youtube.com/@semihgencturk).
-- My email is semihgencturk@gmail.com. 
-- You can freely reach me about everything you want.
-- Go to my [resume](https://drive.google.com/file/d/18ewfmWShKdRq9lkmXA9hyw7vn5UHKCY5/view?usp=share_link).
+- Click [here](https://linktr.ee/semihgencturk) to see my all profiles.
