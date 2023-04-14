@@ -39,4 +39,4 @@
 
 **Contact:**
 
-- Click [here](https://linktr.ee/semihgencturk) to see my all profiles.
+- Click [here](https://linktr.ee/semihgencturk) to see my resume and all profiles.
