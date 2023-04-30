@@ -1,6 +1,6 @@
 ### Hi! I am Semih!
 ## I am a mathematical engineering student.
-## I am an IT Product Manager.
+## I am interested in IT Product Management.
 ----- 
 
 **Key notes:**
