@@ -6,7 +6,7 @@
 **Key notes:**
 
 - [Mathematical Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=37&aid=24) student at [Yildiz Technical University](https://yildiz.edu.tr/en).
-- Highly motivated, keen on learning new skills and experience in IT Product Management.
+- Highly motivated, keen on learning new skills and experience in software development.
 - Graduation: June 2024 – Open to part-time jobs or long/short term internships.
 
 ----
