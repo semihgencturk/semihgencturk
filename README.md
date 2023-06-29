@@ -1,6 +1,6 @@
 ### Hi! I am Semih!
 ## I am a mathematical engineering student.
-## I am interested in IT Product Management.
+## I am interested in sofware development.
 ----- 
 
 **Key notes:**
@@ -21,7 +21,6 @@
 
 **My skills for:**
 
-- Product Management: Communication (written and verbal), Teamwork / adaptability, Doing research, Problem solving, Planning & Prioritization, Roadmapping, Developing strategies, Decision making, Documentation, Note taking, Making presentation, Emotional intelligence, Delagation skills, Relationship management
 - Front-end development: TypeScript, JavaScript, React, Vue, CSS, HTML, Jest, Git
 - Languages: English, Turkish
 
