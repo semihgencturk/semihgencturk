@@ -1,19 +1,19 @@
 ### Hi! I am Semih!
 ## I am a mathematical engineering student.
-## I am interested in sofware development.
+## I am interested in IT Project Management.
 ----- 
 
 **Key notes:**
 
 - [Mathematical Engineering](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=37&aid=24) student at [Yildiz Technical University](https://yildiz.edu.tr/en).
-- Highly motivated, keen on learning new skills and experience in software development.
-- Graduation: June 2024 – Open to part-time jobs or long/short term internships.
+- Highly motivated, keen on learning new skills and experience in IT Project Management.
+- Graduation: June 2024 – Open to work.
 
 ----
 
 **I have work exprience as a:**
 
-- Full Stack Web Developer @ [Softtech](https://www.linkedin.com/company/softtechas/) (For 1 month / Internship)
+- Frontend Web Developer @ [Softtech](https://www.linkedin.com/company/softtechas/) (For 1 month / Internship)
 - Frontend Web Developer @ [Seturtech](https://www.linkedin.com/company/seturtech/) (For 10 months / Part-time)
 - Frontend Web Developer @ [Setur](https://www.linkedin.com/company/setur/) (For 2 months / Internship)
 
@@ -21,7 +21,12 @@
 
 **My skills for:**
 
-- Front-end development: TypeScript, JavaScript, React, Vue, CSS, HTML, Jest, Git
+- Frontend Development (React, TypeScript, JS, CSS)
+- Backend Development (.NET, Node.js)
+- Database Management (MSSQL, Postgre)
+- Computer Science (Algorithms, Data Structure)
+- Data Analysis & Science, Machine Learning, AI
+- Mathematics
 - Languages: English, Turkish
 
 ----
