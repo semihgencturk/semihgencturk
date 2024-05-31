@@ -33,11 +33,16 @@
 
 **Volunteer Responsibilities:**
 
+- [Devnot](https://www.linkedin.com/in/devnot/) (Organizer)
+
+----
+
+**Former Volunteer Responsibilities:**
+
 - [Huawei Student Developers](https://developer.huawei.com/consumer/en/programs/hsd/ambassador) (Campus Ambassador & Lead Of Content Committee)
 - [Kodluyoruz](https://www.linkedin.com/company/kodluyoruz/) (University Ambassadors' Leader)
 - [YTU Multidisciplinary Innovation Technologies Club](https://www.linkedin.com/company/ytumint/) (Vice President & Board Member)
 - [IAESTE Yildiz](https://www.linkedin.com/company/iaeste-yildiz/) (IT Coordinator)
-- [Devnot](https://www.linkedin.com/in/devnot/) (Organizer)
 
 ----
 
