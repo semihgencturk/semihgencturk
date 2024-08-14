@@ -1,5 +1,5 @@
 ### Hi! I am Semih!
-## I am a IT Business Analyist in the fintech domain.
+## I am an IT Business Analyist in the fintech domain.
 
 ----- 
 
