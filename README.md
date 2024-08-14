@@ -6,7 +6,7 @@
 **Key notes:**
 
 - [Mathematical Engineer ](http://www.bologna.yildiz.edu.tr/index.php?r=program/view&id=37&aid=24) gratudated from [Yildiz Technical University](https://yildiz.edu.tr/en).
-- Currently working as a Business Analyst on the Payment Solutions Team at [Turkish Airlines Technology](https://www.linkedin.com/company/turkishtechnology/mycompany/)
+- Currently working as a Business Analyst on the Payment Solutions Team at [Turkish Airlines Technology](https://www.linkedin.com/company/turkishtechnology/mycompany/).
 
 ----
 
